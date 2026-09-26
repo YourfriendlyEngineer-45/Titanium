@@ -1,0 +1,77 @@
+TITANIUM FRAMEWORK LICENSE
+Version 1.0 — Element 22 OPC
+Copyright (c) 2024-2026 Element 22 OPC. All rights reserved.
+
+NOTICE: THIS IS NOT OPEN-SOURCE SOFTWARE.
+This software is proprietary, closed-source, and strictly licensed under the 
+terms below. It is not governed by the MIT, GPL, Apache, or any other 
+open-source license.
+
+==============================================================================
+1. GRANT OF LICENSE
+==============================================================================
+Subject to the terms of this License, Element 22 OPC grants you a limited, 
+non-exclusive, non-transferable, revocable license to use the Titanium 
+Framework (the "Software") solely for the purpose of building, deploying, 
+and monetizing your own proprietary applications, provided you maintain an 
+active, paid subscription to the "Titanium Sole Operator Retainer."
+
+==============================================================================
+2. PERMITTED USE (YOU MAY)
+==============================================================================
+- Use the Software to build and deploy backend services, APIs, and applications.
+- Modify the source code strictly for your own private, internal business use.
+- Deploy compiled artifacts (e.g., Fat JARs) to servers you own or control 
+  (including, but not limited to, Oracle Cloud Infrastructure).
+- Integrate the Software with your own proprietary business logic and databases.
+
+==============================================================================
+3. STRICT PROHIBITIONS (YOU MAY NOT)
+==============================================================================
+- Redistribute, resell, sublicense, lease, or publish the Software, or any 
+  derivative work, in source or compiled form to any third party.
+- Publish the Software, or any derivative, to any public or private package 
+  registry (including but not limited to Maven Central, npm, PyPI, GitHub 
+  Packages, or Docker Hub).
+- Use the Software to build, market, or operate a competing backend framework, 
+  hosting platform, or "Landlord" service for commercial gain.
+- Remove, alter, or obscure this license file, copyright notices, or the 
+  "[TITANIUM]" startup banner.
+- Use the Software without an active, paid Retainer subscription.
+
+==============================================================================
+4. TERMINATION
+==============================================================================
+This license is automatically terminated if your Retainer subscription lapses, 
+is canceled, or is terminated by Element 22 OPC. Upon termination, your right 
+to modify the source code or create new deployments is immediately revoked. 
+You may continue to run existing, previously compiled deployments in production, 
+but you may not update, modify, or expand them without renewing your subscription.
+
+==============================================================================
+5. NO WARRANTY & LIMITATION OF LIABILITY
+==============================================================================
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. 
+
+IN NO EVENT SHALL ELEMENT 22 OPC, ITS AUTHORS, OR ITS AFFILIATES BE LIABLE 
+FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, INCLUDING LOST PROFITS, LOST DATA, 
+OR BUSINESS INTERRUPTION, ARISING FROM THE USE OF THIS SOFTWARE. 
+
+THE REACTOR CORE IS DANGEROUS. YOU HANDLE THE PLUTONIUM AT YOUR OWN RISK. 
+YOU ARE SOLELY RESPONSIBLE FOR YOUR OWN CODE, DATABASE BACKUPS, AND SERVER SECURITY.
+
+==============================================================================
+6. GOVERNING LAW
+==============================================================================
+This License shall be governed by and construed in accordance with the laws 
+of the Republic of the Philippines, without regard to its conflict of law 
+provisions. Any disputes arising from this License shall be subject to the 
+exclusive jurisdiction of the courts of Metro Manila, Philippines.
+
+==============================================================================
+By downloading, installing, copying, compiling, or using this Software, you 
+acknowledge that you have read this License, understand it, and agree to be 
+bound by its terms. If you do not agree, do not use the Software.
+==============================================================================
